@@ -4,7 +4,7 @@ from PIL import Image
 
 width = 64
 height = 64
-input_path = "example.png"
+input_path = "bliss.png"
 
 
 characters = " -':_,^=;><+!rc*/z?sLTv)J7(|Fi{C}fI31tlu[neoZ5Yxjya]2ESwqkP6h9d4VpOGbUAKXHm8RD#$Bg0MNWQ%&@"
